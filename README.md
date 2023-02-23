@@ -22,11 +22,7 @@
 # Hi there 👋, JIHUN OH here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kokong1231.repoName) [![GitHub followers](https://img.shields.io/github/followers/kokong1231.svg?style=social&label=Follow)](https://github.com/kokong1231?tab=followers)<br/>
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
