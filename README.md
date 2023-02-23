@@ -30,7 +30,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a developer who has done back-end, front-end, blockchain, server development, and mobile development in Start-up. React, React-Native, Node js, Nest js are the technologies I am good at. I love learning and building new, productive, innovative and creative things.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 Skills I've covered
   - Kotlin
