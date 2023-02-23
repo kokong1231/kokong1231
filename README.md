@@ -64,9 +64,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhzk2002" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohs" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=ohs&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohs&layout=compact)
