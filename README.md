@@ -1,68 +1,92 @@
-### JIHUN OH
+# 👋 Hi there, I'm JIHUN OH
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-
-
-# Hi there 👋, JIHUN OH here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kokong1231.repoName) [![GitHub followers](https://img.shields.io/github/followers/kokong1231.svg?style=social&label=Follow)](https://github.com/kokong1231?tab=followers)<br/>
-
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-I am a developer who has done back-end, front-end, blockchain, server development, and mobile development in Start-up. React, React-Native, Node js, Nest js are the technologies I am good at. I love learning and building new, productive, innovative and creative things.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 Skills I've covered
-  - Kotlin
-  - React js
-  - Next js
-  - Node js
-  - Nest js
-  - Swift
-  - React Native
-  - Python
-  - Solidity
-  - AWS
-  - Azure
-  - Javascript
-  - Typescript
-  - MySQL
-  - Flutter
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- 📟Outside tech, 🎵 listen to music, 🎬watch moive, 🎮play game
-- 📫 Reach out to me at: jihun.oh5@gmail.com
-
-
-<h2>👀 My github Stats</h2>
-
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
+<div align="center">
   
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokong1231" alt="GitHub Stats" /> <br/><br/>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Harmony+Maker+like+Ctrl+Key+%E2%8C%A8%EF%B8%8F;Collaboration+Enthusiast+%F0%9F%A4%9D)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/kokong1231.svg?style=social&label=Follow)](https://github.com/kokong1231?tab=followers)
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kokong1231.profile)
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=kokong1231&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokong1231&layout=compact)
+
+## 🎹 About Me
+<img align="right" width="400px" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+**"Like the Ctrl key on a collaboration keyboard, I create harmony"**
+
+Hello! I'm JIHUN OH, a **Full Stack Developer** who connects and harmonizes diverse technologies and people like the **Ctrl key** in a team.
+
+I enjoy creating user-centered value by leveraging a versatile tech stack from backend to frontend and mobile. Collaboration, continuous learning, and building synergy through teamwork are what drive me forward! 💡
+
+- 🎯 Creating the **best outcomes through collaboration** and communication
+- 🌱 A developer who **constantly learns and grows**
+- 🎵 Enjoying music, movies, and games after work
+- 📧 **jihun.oh5@gmail.com** - Feel free to reach out anytime!
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack
+
+### 🖥️ Backend & Database
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kokong1231&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kokong1231&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&text_color=c9d1d9"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokong1231&theme=react-dark&hide_border=true&bg_color=0D1117&color=61dafb&line=61dafb&point=c9d1d9" />
+</div>
+<br/>
+
+## 🎮 When I'm Not Coding...
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" align="right"/>
+
+- 🎵 **Listening to Music** - While coding and relaxing!
+- 🎬 **Watching Movies** - A source of new inspiration
+- 🎮 **Gaming** - Stress relief and recharging
+- 🪣 **Self car wash** - I really enjoy washing my own car! I always want my surroundings to be clean!
+- 🚗 **Take a Drive** - I love driving and enjoying my leisure time, day or night~
+
+<br/>
+
+## 💬 Let's Connect!
+
+<div align="center">
+  
+  **Always open to collaboration and new projects!** 🚀
+  
+  Feel free to reach out if you'd like to build something amazing together 😊
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihun.oh5@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  
+  ⭐️ From [kokong1231](https://github.com/kokong1231) with 💙
+  
+</div>
